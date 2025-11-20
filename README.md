@@ -186,16 +186,6 @@ ApiUrl: https://xxxxx.execute-api.us-east-1.amazonaws.com/Prod/predict
 - **S3** for artifact storage  
 - **SAM** for infrastructure  
 
----
-
-## 📌 Notes
-
-- API keys in code samples are placeholders.  
-- Replace them with real secrets using environment variables or AWS Secrets Manager.  
-- For production, consider packaging shared code into a Lambda Layer.  
-
----
-
 ## 📜 License
 
 MIT — feel free to use this template for commercial or personal projects.
